@@ -1,2 +1,2 @@
-# turtle-crossing
-Turtle crossing game created with Python code.
+# Hirst-painting
+A Hirst painting recreated in Python.
